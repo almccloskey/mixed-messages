@@ -27,7 +27,97 @@ const options = [
                         phrase: 'the wind...'
                     }
                 ]
-            }  
+            },
+            {
+                phrase: 'go ',
+                options: [
+                    {
+                        phrase: 'to sleep. Goodnight!',
+                        phrase: 'for a walk!',
+                        phrase: 'back to school?'
+                    }
+                ]
+            },
+            {
+                phrase: 'stop ',
+                options: [
+                    {
+                        phrase: 'listening to you inner demons.',
+                        phrase: 'giving yourself such a hard time!',
+                        phrase: 'for a second and smell the flowers...'
+                    }
+                ]
+            }
+        ]
+    },
+    { 
+        phrase: 'You are ', 
+        options: [
+            { 
+                phrase: 'having ', 
+                options: [
+                    { 
+                        phrase: 'a good day!',
+                        phrase: 'a hard time, sorry..',
+                        phrase: 'a baby! Go to the hospital!'
+                    }
+                ]
+            },
+            {
+                phrase: 'a ',
+                options: [
+                    {
+                        phrase: 'great person!',
+                        phrase: 'complete wreck.',
+                        phrase: 'person. Thats pretty much it.'
+                    }
+                ]
+            },
+            {
+                phrase: 'doing ',
+                options: [
+                    {
+                        phrase: 'listening to you inner demons.',
+                        phrase: 'giving yourself such a hard time!',
+                        phrase: 'for a second and smell the flowers...'
+                    }
+                ]
+            }
+        ]
+    },
+    { 
+        phrase: 'You should ', 
+        options: [
+            { 
+                phrase: 'trust ', 
+                options: [
+                    { 
+                        phrase: 'no one.',
+                        phrase: 'yourself!',
+                        phrase: 'the wind...'
+                    }
+                ]
+            },
+            {
+                phrase: 'go ',
+                options: [
+                    {
+                        phrase: 'to sleep. Goodnight!',
+                        phrase: 'for a walk!',
+                        phrase: 'back to school?'
+                    }
+                ]
+            },
+            {
+                phrase: 'stop ',
+                options: [
+                    {
+                        phrase: 'listening to you inner demons.',
+                        phrase: 'giving yourself such a hard time!',
+                        phrase: 'for a second and smell the flowers...'
+                    }
+                ]
+            }
         ]
     }
 ]
