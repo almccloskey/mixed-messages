@@ -3,17 +3,6 @@ function randomIndex (arr) {
     return index
 }
 
-const firstPhrase = ['You should ', 'You are ', 'Your life '];
-
-// const shouldPhrase = ['trust ', 'go ', 'stop '];
-//     const trustPhrase = ['no one.', 'yourself!', 'the wind...'];
-//     const goPhrase = ['to sleep. Goodnight!', 'for a walk!', 'back to school?'];
-//     const stopPhrase = ['listening to you inner demons.', 'giving yourself such a hard time!', 'for a second and smell the flowers...'];
-
-// const arePhrase = ['having ', 'a ', 'doing ']
-//     const havingPhrase = ['a good day.', 'a terrible time right now, sorry!', 'a baby. Quick, call 911!']
-//     const 
-
 const options = [
     { 
         phrase: 'You should ', 
@@ -86,35 +75,35 @@ const options = [
         ]
     },
     { 
-        phrase: 'You should ', 
+        phrase: 'Your life ', 
         options: [
             { 
-                phrase: 'trust ', 
+                phrase: 'is in ', 
                 options: [
                     { 
-                        phrase: 'no one.',
-                        phrase: 'yourself!',
-                        phrase: 'the wind...'
+                        phrase: 'the toilet.',
+                        phrase: 'a really great way!',
+                        phrase: 'one of the weirdest stretches to date.'
                     }
                 ]
             },
             {
-                phrase: 'go ',
+                phrase: 'will ',
                 options: [
                     {
-                        phrase: 'to sleep. Goodnight!',
-                        phrase: 'for a walk!',
-                        phrase: 'back to school?'
+                        phrase: 'not end the way you think.',
+                        phrase: 'start to pop off soon!',
+                        phrase: 'continually surpise you. Am I right?'
                     }
                 ]
             },
             {
-                phrase: 'stop ',
+                phrase: 'is not ',
                 options: [
                     {
-                        phrase: 'listening to you inner demons.',
-                        phrase: 'giving yourself such a hard time!',
-                        phrase: 'for a second and smell the flowers...'
+                        phrase: 'very long. Live it up!',
+                        phrase: 'that bad.',
+                        phrase: 'going great!'
                     }
                 ]
             }
